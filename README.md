@@ -9,3 +9,8 @@ Dad-Jokes-Generator using HTML, CSS, and JavaScript. Using https://api-ninjas.co
 **Credits:**
 - api-ninjas.com
 - Jason Eiler
+
+*Notes:*
+- Create an account on https://api-ninjas.com
+- On your ninjas account, find your api code.
+- Copy your api code and paste it in index.js, const apiKey = "";
