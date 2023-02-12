@@ -1,5 +1,5 @@
 # Dad-Jokes-Generator
-Dad-Jokes-Generator using HTML, CSS, and JavaScript.
+**Dad-Jokes-Generator** using HTML, CSS, and JavaScript.
 
 **Creadted on:** 2/11/2023
 
