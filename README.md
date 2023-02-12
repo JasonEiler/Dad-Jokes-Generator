@@ -17,3 +17,5 @@ Dad-Jokes-Generator using HTML, CSS, and JavaScript. Using https://api-ninjas.co
 
 Previews:
 ![1](https://user-images.githubusercontent.com/125165647/218292357-5b15eb30-6de1-454e-9a61-26d20acd73bc.JPG)
+
+![2](https://user-images.githubusercontent.com/125165647/218292546-a64f454f-930f-4e9d-889a-8ad938bdcb30.JPG)
